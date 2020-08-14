@@ -82,5 +82,11 @@ Honestly I am scared to all end to do anything without knowing the langueage (it
 - [ ] crack down on specifics
 #### Day 5
 - [ ] crack down on specifics
+- [ ] either finish what i started or begin the second half
 #### Day 6
-- [ ] hope to god i pass
+- [ ] Presentation
+    - [ ] finialize some things
+    - [ ] Pray
+    - [ ] Pray
+    - [ ] Be positive
+
