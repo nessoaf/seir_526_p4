@@ -37,3 +37,50 @@ Include Graphics or Links to:
 * Breakdown individual tasks and what you plan on working on day by day (in a Trello board or some other project planning tool/format). 
 * Wireframes for app
 * User flow for app
+
+# P4 for Nesso
+
+## ESO Addon
+
+### Languages used for the app
+- [ ] .lua
+- [ ] .xml
+
+### Scope
+Honestly I am scared to all end to do anything without knowing the langueage (it looks very similar to JS) So i don't really have a scope other than make an addon that give the user more options to customaize the size/color/orinetation of the ingame ui. (I'm starting small because new language) if that isnt a difficult task then I will add a combat metric to track dungeon functions of an encounter to help users be able to avoid incoming mechanics and try to avoid
+
+#### Points
+- [ ] User customizable UI
+    - [ ] Custom
+        - [ ] colors
+        - [ ] location (anchored areas)
+        - [ ] size manipulation
+- [ ] Combat notifcation (game does this but not at a good level)
+    - [ ] UI
+        - [ ] Collect information from library
+        - [ ] Display information on screen 
+        - [ ] allow user to adjust area size and color of notifications to better help their playstyle and comfort
+
+# I love you guys but real talk freaaaaking out XD
+## Wireframe
+![](/public/wireframe.png)
+![](/public/vsc.png)
+
+# Daily
+#### Day 1
+- [ ] Learn .lua and .xml
+    - [ ] Read documentation
+#### Day 2
+- [ ] begin to self doubt
+- [ ] start to actual code
+    - [ ] pluck together some idea
+        - [ ] ask a dev(from discord) questions on the second when im freaking out
+    - [ ] do some struckering
+#### Day 3
+- [ ] light day (will fill in on actual readme when i get here)
+#### Day 4
+- [ ] crack down on specifics
+#### Day 5
+- [ ] crack down on specifics
+#### Day 6
+- [ ] hope to god i pass
